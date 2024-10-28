@@ -1,0 +1,19 @@
+/*
+Theme Name: My Hacker Theme
+Theme URI: http://example.com/my-hacker-theme
+Author: Your Name
+Author URI: http://example.com
+Description: A hacker-themed WordPress theme.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: hacker, dark, technology
+Text Domain: my-hacker-theme
+*/
+
+/* Add your styles below */
+body {
+    background-color: #1a1a1a;
+    color: #00ff00;
+    font-family: 'Courier New', Courier, monospace;
+}
